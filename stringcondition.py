@@ -1,6 +1,6 @@
 # ============================================
 # PYTHON CONDITIONAL STATEMENTS
-# Author : Banti Singh
+# Author : Yuvraj Singh
 # ============================================
 # --------------------------------------------
 # 1. Boolean Values
